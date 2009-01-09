@@ -1,89 +1,0 @@
-9
-
-dir
-13436
-http://svn.eathena.ws/svn/ea/trunk/npc/jobs
-http://svn.eathena.ws/svn/ea
-
-
-
-2009-01-02T23:48:36.875153Z
-13430
-zephyrus
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-8d3bc1bb-15e8-0310-adf8-f98a08d51996
-
-2-1
-dir
-
-2-1a
-dir
-
-2-2
-dir
-
-2-2a
-dir
-
-1-1e
-dir
-
-novice
-dir
-
-2-1e
-dir
-
-valkyrie.txt
-file
-
-
-
-
-2009-01-09T06:13:15.000000Z
-5a7ce352f996b5092508fe3de11f8239
-2008-04-03T16:41:43.874285Z
-12465
-ultramage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13145
-
-2-2e
-dir
-
-1-1
-dir
-
