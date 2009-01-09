@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/ea/!svn/ver/13436/trunk/npc
+END
+scripts_main.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ea/!svn/ver/11962/trunk/npc/scripts_main.conf
+END
+scripts_jmonsters.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/11962/trunk/npc/scripts_jmonsters.conf
+END
+scripts_guild.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/13202/trunk/npc/scripts_guild.conf
+END
+scripts_eaac.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ea/!svn/ver/11962/trunk/npc/scripts_eaac.conf
+END
+scripts_mapflags.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/12761/trunk/npc/scripts_mapflags.conf
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ea/!svn/ver/13436/trunk/npc/Changelog.txt
+END
+scripts_custom.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/13213/trunk/npc/scripts_custom.conf
+END
+scripts_monsters.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11962/trunk/npc/scripts_monsters.conf
+END
+scripts_warps.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/12740/trunk/npc/scripts_warps.conf
+END
+scripts_jobs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ea/!svn/ver/11962/trunk/npc/scripts_jobs.conf
+END
+scripts_athena.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/13428/trunk/npc/scripts_athena.conf
+END
+scripts_eamonsters.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/11962/trunk/npc/scripts_eamonsters.conf
+END

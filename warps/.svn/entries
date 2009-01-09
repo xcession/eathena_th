@@ -1,0 +1,80 @@
+9
+
+dir
+13436
+http://svn.eathena.ws/svn/ea/trunk/npc/warps
+http://svn.eathena.ws/svn/ea
+
+
+
+2009-01-06T17:02:28.131212Z
+13436
+L0ne_W0lf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+cities
+dir
+
+other
+dir
+
+disabled_warps.txt
+file
+
+
+
+
+2009-01-09T06:13:04.000000Z
+df57b9fd4842a2f2caba1a21724d4014
+2007-06-14T08:29:20.842374Z
+10759
+ultramage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1715
+
+dungeons
+dir
+
+guild
+dir
+
+pvp
+dir
+
+fields
+dir
+
