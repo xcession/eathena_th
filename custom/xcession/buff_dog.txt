@@ -1,0 +1,12 @@
+// Buff Dog ----------------------------------------------------------
+morocc,159,97,4    script  Buff Dog   81,{
+    mes [Buff Dog]";
+    skilleffect 28,2000;
+    heal 2000,0;
+    skilleffect 34,0;
+    // That's bless 10.
+    sc_start 10,240000,10;
+    skilleffect 29,0;
+    // That's agi 5
+    sc_start 12,140000,5;
+}
